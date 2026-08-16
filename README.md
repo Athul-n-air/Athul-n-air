@@ -74,11 +74,11 @@ $ whoami
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
-│ PROJECT: VisionWear          │  PROJECT: UniMeet                  │
+│ PROJECT: VisionWear                                                │
 ├───────────────────────────────┼────────────────────────────────────┤
-│ > TensorFlow CNN               │ > Flutter web meeting platform    │
-│ > computer vision               │ > React + Node + MongoDB          │
-│                                 │ > Socket.IO + custom 360° viewer  │
+│ > TensorFlow CNN                                                   │
+│ > computer vision                                                  │
+│                                                                    │
 └───────────────────────────────┴────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
@@ -127,7 +127,7 @@ tools:        [Git, Google Sheets/Apps Script, SMTP Automation]
 
 ```
 > connection established. say hi via the badges above.
-> ☕ side quest: Café 18o'5 — recognized by the Coffee Board of India
+>  side quest:marketing and sales
 ```
 
 `[ EOF ]`
