@@ -87,6 +87,14 @@ $ whoami
 │ > emergency alert Android app — Kotlin                            │
 │ > Firebase + FCM + Twilio + GPS                                   │
 └──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│ PROJECT: Stack Overflow Language Predictor                       │
+├──────────────────────────────────────────────────────────────────┤
+│ > classifies Stack Overflow questions by programming language    │
+│ > stack: TensorFlow/Keras — CNN + embedding + TextVectorization  │
+│ > classes: Python, Java, JavaScript, C#                          │
+│ > ~78% test accuracy on held-out test set                        │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
